@@ -26,7 +26,7 @@ This is a full-stack PDF management system where users can upload, view, downloa
 
 ### ▶️ Backend (Django + SQLite)
 
-***(bash)****
+-Follow the protocol below to run the backend:
 
 cd patient_portal
 python -m venv env
